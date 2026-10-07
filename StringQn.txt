@@ -1,0 +1,15 @@
+1. Write a Java program to declare and display a String.
+2. Write a program to find the length of a String.
+3. Write a program to concatenate first name and last name.
+4. Write a program to demonstrate the `append()` method.
+5. Write a program to demonstrate the `reverse()` method.
+6. Write a program to demonstrate the `delete()` method.
+7. Write a program to demonstrate the `insert()` method.
+8. Write a program using StringBuffer that demonstrates all four methods:
+
+   * `append()`
+   * `reverse()`
+   * `delete()`
+   * `insert()`
+9. Write a program to display student information using String concatenation.
+10. Write a program to demonstrate the difference between String and StringBuffer.
